@@ -6,5 +6,4 @@
 __all__ = ['bro']
 
 # %% ../bro.ipynb 2
-def bro():
-    print("What's up bro")
+def bro(): print("What's up bro")
